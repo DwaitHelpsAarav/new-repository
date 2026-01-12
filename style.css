@@ -1,0 +1,17 @@
+body{
+	font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+    background-color: #121a26;
+    color: white;
+	line-height:1.5;
+    text-align: center;
+}
+a{
+    color: #f28c0f;
+    text-decoration: none;
+}
+
+img{
+    max-width: 30%;
+    border-radius: 30px;
+    height: auto;
+}
